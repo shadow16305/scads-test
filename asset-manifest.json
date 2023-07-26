@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/scads-test/static/css/main.3bc20058.css",
+    "main.js": "/scads-test/static/js/main.3c933c66.js",
+    "static/js/787.593e863c.chunk.js": "/scads-test/static/js/787.593e863c.chunk.js",
+    "static/media/lp-light-graphics-amechain-1.mp4": "/scads-test/static/media/lp-light-graphics-amechain-1.24da2b48aeac61b1252c.mp4",
+    "static/media/img-lp-down.png": "/scads-test/static/media/img-lp-down.63332467285505e452f9.png",
+    "static/media/logo.webp": "/scads-test/static/media/logo.74d3aa32e164d76f936f.webp",
+    "index.html": "/scads-test/index.html",
+    "static/media/down-arrow-svgrepo-com.svg": "/scads-test/static/media/down-arrow-svgrepo-com.aafcaca214ae7eb8d22132408fe9f3ff.svg",
+    "static/media/hamburger.svg": "/scads-test/static/media/hamburger.6b2fbd6b65c631ee7b40d0cc06f23e77.svg",
+    "main.3bc20058.css.map": "/scads-test/static/css/main.3bc20058.css.map",
+    "main.3c933c66.js.map": "/scads-test/static/js/main.3c933c66.js.map",
+    "787.593e863c.chunk.js.map": "/scads-test/static/js/787.593e863c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bc20058.css",
+    "static/js/main.3c933c66.js"
+  ]
+}
